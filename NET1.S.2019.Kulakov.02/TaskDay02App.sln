@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskDay02App", "TaskDay02Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitOperation", "BitOperation\BitOperation.csproj", "{A4AD51A6-B399-4B18-8E83-A164BE825C6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTasks", "ArrayExtensions\ArrayTasks.csproj", "{0CD4BD08-4B5B-4EBA-8BBD-3ECFCFCB2934}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayExtensions", "ArrayExtensions\ArrayExtensions.csproj", "{0CD4BD08-4B5B-4EBA-8BBD-3ECFCFCB2934}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitOperations.MSTests", "BitOperations.MSTests\BitOperations.MSTests.csproj", "{DE0AFC18-9EA5-4577-9E5A-4FCA3C66119E}"
 EndProject

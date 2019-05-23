@@ -55,9 +55,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ArrayExtensions\ArrayTasks.csproj">
+    <ProjectReference Include="..\ArrayExtensions\ArrayExtensions.csproj">
       <Project>{0cd4bd08-4b5b-4eba-8bbd-3ecfcfcb2934}</Project>
-      <Name>ArrayTasks</Name>
+      <Name>ArrayExtensions</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
