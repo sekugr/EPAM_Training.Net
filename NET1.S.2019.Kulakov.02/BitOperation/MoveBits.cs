@@ -3,11 +3,7 @@
 /// </summary>
 namespace BitOperation
 {
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    using System;
 
     /// <summary>
     /// class with method for working with bit operations

@@ -3,11 +3,8 @@
 /// </summary>
 namespace ArrayTasks
 {
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    using System;
+    using System.Collections.Generic;
 
     /// <summary>
     /// class containing methods of working with arrays to the tasks of the 2 day
@@ -99,11 +96,11 @@ using System.Threading.Tasks;
             string numStr = number.ToString();
             List<string> resStrArr = new List<string>();
             int count = 0;
-            foreach (var el in numArray)
+            foreach (var item in numArray)
             {
-                if (el.Contains(numStr))
+                if (item.Contains(numStr))
                 {
-                    resStrArr.Add(el);
+                    resStrArr.Add(item);
                     count++;
                 }
             }
