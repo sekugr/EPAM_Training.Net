@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Трансформер";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Преобразование числа в текст.</p>
+
+
+    <h1>Введите число</h1><br />
+    <form method="post" action="~/Home/Transformer">
+        <div>
+            <label for="name">Число: </label>
+            <input type="text" name="number" required>
+        </div>
+        <br />
+        <button type="submit">Отправить</button>
+    </form>
+
