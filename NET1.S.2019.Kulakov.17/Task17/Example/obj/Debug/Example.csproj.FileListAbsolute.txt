@@ -1,0 +1,10 @@
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\obj\Debug\Example.csprojAssemblyReference.cache
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\bin\Debug\Example.exe.config
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\bin\Debug\Example.exe
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\bin\Debug\Example.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\obj\Debug\Example.exe
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\obj\Debug\Example.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\bin\Debug\TimerClock.dll
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\bin\Debug\TimerClock.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\Example\obj\Debug\Example.csproj.CopyComplete

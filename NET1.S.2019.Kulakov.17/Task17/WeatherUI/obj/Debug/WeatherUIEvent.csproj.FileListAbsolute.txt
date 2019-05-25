@@ -1,0 +1,12 @@
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\WeatherUI.exe.config
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\WeatherUI.exe
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\WeatherUI.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\Weather.dll
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\TimerClock.dll
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\Weather.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\bin\Debug\TimerClock.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\obj\Debug\WeatherUIEvent.csprojAssemblyReference.cache
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\obj\Debug\WeatherUIEvent.csproj.CoreCompileInputs.cache
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\obj\Debug\WeatherUIEvent.csproj.CopyComplete
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\obj\Debug\WeatherUI.exe
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\WeatherUI\obj\Debug\WeatherUI.pdb

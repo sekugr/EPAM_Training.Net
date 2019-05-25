@@ -1,0 +1,12 @@
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\bin\Debug\TimerClock.dll
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\bin\Debug\TimerClock.pdb
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\Task_17.2.csproj.CoreCompileInputs.cache
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\TimerClock.dll
+d:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\TimerClock.pdb
+D:\EPAM\git\NET1.S.2019.Kulakov\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\Task_17.2.csprojResolveAssemblyReference.cache
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\bin\Debug\TimerClock.dll
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\bin\Debug\TimerClock.pdb
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\Task_17.2.csprojResolveAssemblyReference.cache
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\Task_17.2.csproj.CoreCompileInputs.cache
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\TimerClock.dll
+d:\SHATE-M\git\EPAM_Training.Net\NET1.S.2019.Kulakov.17\Task17\TimerClock\obj\Debug\TimerClock.pdb
